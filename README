@@ -1,0 +1,7 @@
+osqa-publish2wiki is a plugin for OSQA which publishes questions and
+answers matching certain tags to a wiki. At this time only TWiki is
+supported, but it could easily be extended in the future.
+
+Installation instructions: simply copy the contents of the 'src'
+directory into a subdirectory under 'forum_modules' in your OSQA
+installation. (e.g. '$OSQA_HOME/forum_modules/publish2wiki')
